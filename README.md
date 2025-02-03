@@ -1,3 +1,3 @@
 Replace target in target_ip =
 
-![ddos_attack](https://github.com/user-attachments/assets/391b6bd1-2ad6-4437-9fe2-b3a53bcdb8b1)
+![ddos_attack(1)](https://github.com/user-attachments/assets/a31f9ecd-5df5-4ae9-8b10-e3dca3a7fe08)
